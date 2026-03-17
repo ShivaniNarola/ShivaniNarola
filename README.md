@@ -44,11 +44,6 @@ I enjoy working with **microcontrollers, embedded Linux, device drivers, and com
 
 ---
 
-### 📊 GitHub Stats
-
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivaniNarola\&show_icons=true)
-
----
 
 ### 🔭 Areas of Interest
 
