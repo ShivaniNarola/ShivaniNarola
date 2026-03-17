@@ -38,9 +38,7 @@ I enjoy working with **microcontrollers, embedded Linux, device drivers, and com
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Arduino_Logo.svg" width="40" height="40"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/STMicroelectronics_logo.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
 
 </p>
 
@@ -48,7 +46,7 @@ I enjoy working with **microcontrollers, embedded Linux, device drivers, and com
 
 ### 📊 GitHub Stats
 
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivaniNarola\&show_icons=true)
 
 ---
 
