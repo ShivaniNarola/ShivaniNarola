@@ -97,15 +97,6 @@ A from-scratch Linux kernel module exposing IMU data through the Sysfs interface
 
 ---
 
-## 💼 Experience
-
-**Embedded Systems Intern** @ UpNext Software Private Limited *(May 2025 – Jun 2025)*
-> Built an IoT-integrated Alzheimer's care wearable using ESP32 + FreeRTOS. Designed firmware architecture with real-time RTOS task scheduling, semaphore-driven interrupt handling, and cloud telemetry over WiFi.
-
----
-
-<div align="center">
-
 *"The closer you are to the hardware, the more you understand what software really does."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=shivani-narola&color=blue&style=flat-square)
